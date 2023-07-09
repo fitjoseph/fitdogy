@@ -480,9 +480,9 @@ padding: 5px 10px;
  .dogbox-btn{
   background: green;
  }
- .dog-box-con{
+ /* .dog-box-con{
  
- }
+ } */
  #dog-box-con{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
